@@ -1,8 +1,8 @@
 ### Olá! Eu sou Rafael Mello 👋
 
-- 🔭 Atualmnte trabalho com Front-end...
-- 🌱 Estudando Html, CSS e JavaScript...
-- 📫 Contate-me pelo E-mail: rafael.mello1@gmail.com
+- 🔭 Atualmente trabalho com Agentes IA...
+- 🌱 Estudando desenvolvimento de Agentes IA N8N.
+- 📫 Contate-me pelo E-mail: rafael.mello109@gmail.com
 
 <div align="center">
   <a href="https://github.com/rafa3lmell0">
@@ -21,6 +21,5 @@
  
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Rafa3lMell0/Rafa3lMell0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
